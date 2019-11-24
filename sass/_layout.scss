@@ -23,12 +23,16 @@
 .sidebar {
   background-color: var(--color-grey-dark-1);
   flex: 0 0 18%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
   //grow shrink width
 }
 
 .hotel-view {
   background-color: #fff;
   background-color: red;
+  min-height: 60rem;
   flex: 1;
   //grow shrink width
 }
