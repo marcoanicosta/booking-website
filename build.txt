@@ -1,8 +1,7 @@
-1. Building the Header -b (header) *finished*
-2. Building the Navigation -b ()
-3. Building the Hotel Overview -b ()
-4. Building the Description Section -b ()
-5. Building the User Reviews -b ()
-6. Building the CTA Section -b ()
-7. Building the Media Queries -b ()
-8. Wrap Up
+
+1. Building the Hotel Overview -b ()
+2. Building the Description Section -b ()
+3. Building the User Reviews -b ()
+4. Building the CTA Section -b ()
+5. Building the Media Queries -b ()
+6. Wrap Up
